@@ -281,10 +281,10 @@
     <link name="${prefix}wrist_3_link">
       <visual>
         <geometry>
-          <mesh filename="package://ur_description/meshes/ur5/visual/wrist3.dae" />
+          <mesh filename="package://ur_description/meshes/robotiq_hand/test_1.stl" />
         </geometry>
         <material name="LightGrey">
-          <color rgba="0.7 0.7 0.7 1.0"/>
+          <color rgba="0.2 0.2 0.2 1.0"/>
         </material>
       </visual>
       <collision>
